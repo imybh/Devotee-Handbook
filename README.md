@@ -4,7 +4,7 @@
 
 ### Using This Portal You Can Learn About Temple - Prayers , Aartis And Vaishnava Bhajans.
  
-[Website Link](https://imybh.github.io/Devotee-Handbook/)
+[Website Link](https://imybh.github.io/Devotee-Handbook/html)
 
 ### Contact me:
 
